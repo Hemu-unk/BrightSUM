@@ -1,0 +1,151 @@
+Topic,Prompt,Answer,Difficulty,Quiz Only,Hints
+Expressions,Simplify: 3x + 4x,7x,Easy,false,Combine like terms. || Both terms contain x. || Add the coefficients: 3 + 4.
+Expressions,Simplify: 6a + 2a + 3,8a + 3,Easy,false,"Look for like terms. || Combine 6a and 2a first. || 6a + 2a = 8a, then bring down the +3."
+Expressions,Simplify: 7y - 2y,5y,Easy,false,These are like terms. || Subtract the coefficients. || 7 − 2 = 5.
+Expressions,Evaluate: 2x + 5 when x = 3,11,Easy,false,"Substitute x with 3. || Calculate 2(3) first. || 2·3 = 6, then 6 + 5 = 11."
+Expressions,Simplify: 6 + 2x - 3,2x + 3,Easy,false,"Combine constants. || 6 − 3 is something simple. || 6 − 3 = 3, so expression is 2x + 3."
+Expressions,Simplify: 4b + 0,4b,Easy,false,Adding zero does nothing. || Identify the variable term. || Zero is the additive identity.
+Expressions,Simplify: 3(2x + 4),6x + 12,Medium,false,"Use the distributive property. || Multiply 3 by each term. || 3·2x = 6x, 3·4 = 12."
+Expressions,Simplify: 5(y + 3) + 2y,7y + 15,Medium,false,Expand first. || Combine like terms after expanding. || 5y + 2y = 7y; 5·3 = 15.
+Expressions,Simplify: 2a + 3(a + 2),5a + 6,Medium,false,Distribute 3 inside parentheses. || Combine like terms. || 2a + 3a = 5a; 3·2 = 6.
+Expressions,Evaluate: 4x + 3 when x = 5,23,Medium,false,Substitute 5 for x. || Multiply before adding. || 4·5 = 20; 20 + 3 = 23.
+Expressions,Evaluate: 2(3y + 5) - y when y = 2,20,Medium,false,Substitute y = 2. || Calculate inside parentheses first. || 3(2)+5=11; 2(11)=22; 22−2=20.
+Expressions,Simplify: 3(m + 2) + 4(m - 1),7m + 2,Medium,false,Expand both parentheses. || Combine m terms. || 3m+4m = 7m; 6 − 4 = 2.
+Expressions,Simplify: 2(2x + 5) + 3(x - 1),7x + 7,Medium,false,Distribute each multiplier. || Combine the x terms. || 4x + 3x = 7x; 10 − 3 = 7.
+Expressions,Simplify: 2(3x + 4) - 5x,x + 8,Hard,false,Expand first. || Combine like terms carefully. || 6x − 5x = x; remaining constant is +8.
+Expressions,Simplify: 3(a + 2b) + 2(2a - b),7a + 4b,Hard,false,Expand each group. || Group a terms and b terms. || 3a+4a = 7a; 6b−2b = 4b.
+Expressions,"Evaluate: 3x + 2y - 5 when x = 2, y = 3",7,Hard,false,"Substitute x and y. || Calculate each term separately. || 3(2)=6, 2(3)=6 → 6+6−5=7."
+Expressions,Simplify: 4(2m - 3) + 3(m + 5),11m + 3,Hard,false,Expand first. || Combine m terms. || 8m + 3m = 11m; −12 + 15 = 3.
+Expressions,"Evaluate: 2(a + b) - 3c when a=2, b=4, c=3",3,Hard,false,Substitute all variables. || Compute 2(a+b) first. || 2(6)=12; 12−9=3.
+Expressions,Simplify: 5(2x - 3) - 2(3x - 4),4x - 7,Hard,false,Expand both groups. || Combine x terms. || 10x−6x = 4x; −15+8 = −7.
+Expressions,Simplify: (x + 2) + (3x - 5) + 4,4x + 1,Hard,false,Combine like terms. || Group x terms first. || 1x+3x=4x; 2−5+4 = 1.
+Expressions,Simplify: x + 2x + 5,3x + 5,Easy,false,Combine like terms. || x + 2x = 3x. || Bring down the +5.
+Expressions,Simplify: 10 - 3x + x,10 - 2x,Easy,false,Group x terms. || -3x + x = -2x. || Keep the constant 10.
+Expressions,Simplify: 8a - 5 + 2a,10a - 5,Easy,false,Combine a-terms. || 8a + 2a = 10a. || Constant stays -5.
+Expressions,Evaluate: 4x - 7 when x = 6,17,Easy,false,Substitute x = 6. || Compute 4·6. || 24 – 7 = 17.
+Expressions,Simplify: 12 + 3x + 8,3x + 20,Easy,false,Combine constants. || 12 + 8 = 20. || Bring down 3x.
+Expressions,Simplify: 9y - 4y + 7,5y + 7,Easy,false,Combine like terms. || 9y - 4y = 5y. || Add the constant 7.
+Expressions,Evaluate: 3a + 2 when a = 10,32,Easy,false,Replace a with 10. || 3(10) = 30. || Add the 2.
+Expressions,Simplify: 4(x + 1),4x + 4,Easy,false,Distribute 4. || Multiply 4·x and 4·1. || 4x + 4.
+Expressions,Simplify: 2(5 + y),10 + 2y,Easy,false,Use distributive property. || Multiply 2·5 and 2·y. || 10 + 2y.
+Expressions,Simplify: (x + 3) + (x - 1),2x + 2,Easy,false,Combine x-terms. || x + x = 2x. || 3 − 1 = 2.
+Expressions,Simplify: 5(x - 2) + 3x,8x - 10,Medium,false,Expand 5(x - 2). || 5x + 3x = 8x. || -10 remains.
+Expressions,Simplify: 4(y + 3) - 2y,2y + 12,Medium,false,Expand 4(y + 3). || Combine y-terms. || 4y - 2y = 2y.
+Expressions,Simplify: 7(2a - 1) + a,15a - 7,Medium,false,Expand the 7. || 14a + a = 15a. || Bring down the -7.
+Expressions,Simplify: 3x + 2(4x - 6),11x - 12,Medium,false,Expand 2(4x - 6). || Combine x-terms. || 3x + 8x = 11x.
+Expressions,Simplify: (2m + 3) + (5m - 8),7m - 5,Medium,false,Group m-terms. || 2m + 5m = 7m. || 3 − 8 = -5.
+Expressions,Simplify: 6(2x + 1) - 3x,9x + 6,Medium,false,Expand 6(2x + 1). || Combine like terms. || 12x - 3x = 9x.
+Expressions,Simplify: 2(3a - 5) + 4(a + 1),10a - 6,Medium,false,Expand each group. || Combine 6a + 4a. || -10 + 4 = -6.
+Expressions,Simplify: 3(x + 4) + 2(x - 6),5x + 0,Medium,false,Expand first. || 3x + 2x = 5x. || 12 − 12 = 0.
+Expressions,Simplify: 8(n - 1) - 3(n + 5),5n - 23,Medium,false,Expand both parentheses. || Combine n terms. || -8 - 15 = -23.
+Expressions,Simplify: 4(3x - 1) + 5,12x + 1,Medium,false,Expand 4(3x - 1). || -4 + 5 = 1. || Combine with 12x.
+Expressions,Simplify: 2(5x - 3) - 3(2x - 4),4x + 6,Hard,false,Expand each side. || Combine x-terms. || Carefully handle negatives.
+Expressions,Simplify: 7(2m + 3) - 4(m - 5),10m + 41,Hard,false,Expand both parts. || Combine 14m - 4m. || 21 + 20 = 41.
+Expressions,Simplify: 6(3a - 2) + 5(1 - a),13a - 7,Hard,false,Expand carefully. || Identify a-terms. || Combine constants.
+Expressions,Simplify: 4(x - 5) + 6(2x + 1),16x - 14,Hard,false,Expand first. || 4x + 12x = 16x. || -20 + 6 = -14.
+Expressions,Simplify: 3(4y + 2) - 5(2y - 3),2y + 21,Hard,false,Expand both products. || Combine y-terms. || Carefully distribute the -5.
+Expressions,Simplify: 9(x - 2) + 3(4 - x),6x - 6,Hard,false,Expand. || Notice the negative x from the second expansion. || Combine x-terms and constants.
+Expressions,Simplify: 5(3p - 4) - 2(7p - 1),p - 18,Hard,false,Expand both parentheses. || Combine p-terms. || Combine constants.
+Expressions,Simplify: (4x - 3) + 2(3x + 5) - (x - 2),9x + 9,Hard,false,Expand 2(3x + 5). || Distribute negative on (x - 2). || Combine like terms.
+Expressions,Simplify: 2(6 - x) + 3(x - 4),x - 6,Hard,false,Expand carefully. || Combine x-terms. || Combine constants.
+Expressions,Simplify: 7(2x + 1) - 5(x + 6) + 3,9x - 20,Hard,false,Expand both groups. || Combine x terms: 14x - 5x = 9x. || Combine constants: 7 - 30 + 3.
+Inequalities,Solve: x + 3 > 7,x > 4,Easy,false,Subtract 3 from both sides. || Keep the inequality direction the same. || 7 − 3 = 4.
+Inequalities,Solve: x − 5 ≥ 2,x ≥ 7,Easy,false,Add 5 to both sides. || Do not flip inequality. || 2 + 5 = 7.
+Inequalities,Solve: 3x > 9,x > 3,Easy,false,Divide both sides by 3. || The sign stays the same. || 9 ÷ 3 = 3.
+Inequalities,Solve: x/4 ≤ 6,x ≤ 24,Easy,false,Multiply both sides by 4. || Inequality direction stays. || 6 × 4 = 24.
+Inequalities,Solve: 2x + 1 ≤ 7,x ≤ 3,Easy,false,Subtract 1 from both sides. || 2x ≤ 6. || Divide by 2.
+Inequalities,Solve: 7 − x ≥ 2,x ≤ 5,Easy,false,Subtract 7 from both sides. || The −x becomes negative. || Multiply by −1 and flip sign.
+Inequalities,Solve: 4 + x < 10,x < 6,Easy,false,Subtract 4. || The inequality stays. || 10 − 4 = 6.
+Inequalities,Solve: −3x ≥ −12,x ≤ 4,Easy,false,Divide by −3. || Flip the inequality. || −12 ÷ −3 = 4.
+Inequalities,Solve: 5 − 2x > 1,x < 2,Easy,false,Subtract 5. || Divide the −2. || Flip the inequality after dividing by −2.
+Inequalities,Solve: 8x + 4 ≥ 20,x ≥ 2,Easy,false,Subtract 4. || 8x ≥ 16. || Divide by 8.
+Inequalities,Solve: 3(x − 1) ≥ 9,x ≥ 4,Medium,false,Divide by 3. || x − 1 ≥ 3. || Add 1.
+Inequalities,Solve: 2(x + 4) < 18,x < 5,Medium,false,Divide by 2. || x + 4 < 9. || Subtract 4.
+Inequalities,Solve: 4 − 3(x + 1) ≤ 1,x ≥ 0,Medium,false,Distribute the -3. || Combine like terms. || Solve for x.
+Inequalities,Solve: 5x − 7 < 3x + 1,x < 4,Medium,false,Move x terms to one side. || Move constants to the other. || Solve 2x < 8.
+Inequalities,Solve: 2x + 5 ≥ 3x − 2,x ≤ 7,Medium,false,Subtract 2x. || Add 2. || Compare constants.
+Inequalities,Solve: −4(2x − 3) < 8,x > 1,Medium,false,Divide by −4 and flip sign. || Expand if needed. || Solve simply.
+Inequalities,Solve: 7x + 2 ≤ 3(2x + 4),x ≤ 10,Medium,false,Expand right side. || Move x-terms together. || Solve.
+Inequalities,Solve: 6(x − 2) > 2(3x − 1),x < 2.5,Medium,false,Expand both sides. || Combine like terms. || Solve.
+Inequalities,Solve: 9 − x ≤ 4(x + 1),x ≥ 1,Medium,false,Expand 4(x+1). || Bring x-terms together. || Solve.
+Inequalities,Solve: 5 − 2(3x − 4) ≥ 3x,x ≤ 3,Medium,false,Distribute the −2. || Collect terms. || Solve.
+Inequalities,Solve: 3(2x + 5) − 4(x − 1) < 30,x < 7,Hard,false,Expand both sides. || Combine like terms. || Solve for x.
+Inequalities,Solve: 2(x − 3) + 5x ≥ 4(x + 2),x ≥ 2,Hard,false,Expand both sides. || Combine x terms. || Solve.
+Inequalities,Solve: 7 − 2(x + 4) ≤ 3(1 − x),x ≥ −1,Hard,false,Expand both sides. || Gather terms. || Isolate x.
+Inequalities,Solve: 5x − 3(2 − x) > 4x + 7,x > 13,Hard,false,Expand -3(2-x). || Combine x terms. || Solve for x.
+Inequalities,Solve: 4(x + 2) − 6(x − 3) ≤ 2x + 18,x ≥ 0,Hard,false,Expand. || Combine like terms. || Solve.
+Inequalities,Solve: 8 − 3(2x − 5) ≥ 4(1 − x),x ≤ 3,Hard,false,Expand both sides. || Combine terms. || Solve.
+Inequalities,Solve: 9x + 1 ≤ 3(4x + 2),x ≤ 1,Hard,false,Expand right side. || Combine like terms. || Solve.
+Inequalities,Solve: 2(x − 4) − 3(x + 5) < 7 − x,x > −4,Hard,false,Expand both products. || Combine x terms. || Solve.
+Inequalities,Solve: −5(2x − 3) ≤ 15x + 10,x ≥ −1,Hard,false,Expand -5(2x − 3). || Move x terms together. || Solve.
+Inequalities,Solve: 4x − 7 < 3(x + 2) − 4,x < 9,Hard,false,Expand 3(x+2). || Bring x terms to one side. || Solve.
+Inequalities,Solve: 2(3x + 1) − 5 ≤ 4(x − 2),x ≥ 2,Hard,false,Expand both sides. || Combine terms. || Solve.
+Inequalities,Solve: 7x − 4 ≥ 2(3x + 5),x ≥ 14,Hard,false,Expand 2(3x+5). || Combine x terms. || Solve.
+Inequalities,Solve: 6x + 12 ≤ 3(2x + 7),x ≤ 3,Hard,false,Expand. || Combine terms. || Solve.
+Inequalities,Solve: 5(2 − x) + 8 < 12 − 3x,x > −3,Hard,false,Expand 5(2−x). || Combine like terms. || Solve.
+Inequalities,Solve: 3x − 1 ≥ 2x + 9,x ≥ 10,Hard,false,Move x terms. || Add 1. || Solve.
+Inequalities,Solve: 8 − x < 3(1 − 2x),x < −1,Hard,false,Expand. || Combine like terms. || Solve.
+Inequalities,Solve: 6(x − 1) − 2 ≥ 4x + 10,x ≥ 3,Hard,false,Expand. || Combine like terms. || Solve.
+Inequalities,Solve: 3(x + 4) − 2(2x − 1) ≤ 7,x ≤ 3,Hard,false,Expand carefully. || Combine x terms. || Simplify.
+Inequalities,Solve: 4(2x − 3) − 5 ≥ 2(3x + 1),x ≥ 5,Hard,false,Expand LHS. || Expand RHS. || Solve for x.
+Inequalities,Solve: 7(x − 2) + 3 < 4x + 20,x < 9,Hard,false,Expand. || Move x terms. || Solve.
+Inequalities,Solve: 2x + 4 ≥ 3(x − 5),x ≤ 19,Hard,false,Expand 3(x−5). || Move x terms. || Solve.
+Inequalities,Solve: −3(4x − 1) ≤ 5x + 2,x ≥ −1,Hard,false,Expand LHS. || Move terms. || Solve.
+Inequalities,Solve: 4(x + 3) − 2(3x − 4) ≥ 6,x ≥ −1,Hard,false,Expand. || Combine x terms. || Solve.
+Inequalities,Solve: 5 − 4x < 3(2 − x),x < 1,Hard,false,Expand RHS. || Move x terms. || Solve.
+Inequalities,Solve: 8x − 6 ≥ 2(4x − 5),x ≥ −2,Hard,false,Expand RHS. || Combine like terms. || Solve.
+Inequalities,Solve: 3(2 − x) + 7 < 4(x − 1),x > 2,Hard,false,Expand both sides. || Move x terms. || Solve.
+Inequalities,Solve: −2(x + 4) ≥ 6x − 10,x ≤ 1,Hard,false,Expand -2(x+4). || Move x terms. || Solve.
+Inequalities,Solve: 7 − 3x > 2(1 − x),x < 5,Hard,false,Expand RHS. || Move x terms. || Solve.
+Inequalities,Solve: 5(x − 3) − 2(x − 4) ≥ 3,x ≥ 1,Hard,false,Expand both. || Combine x terms. || Solve.
+Inequalities,Solve: 6x + 9 < 3(2x + 5),x < 2,Hard,false,Expand RHS. || Combine. || Solve.
+Functions,"If f(x) = 3x + 2, find f(5).",17,Easy,false,Multiply 3×5. || Add 2. || f(5)=17.
+Functions,"If f(x) = x², find f(6).",36,Easy,false,Square 6. || f(6)=36. || Straight substitution.
+Functions,"If f(x) = 2x − 1, find f(0).",−1,Easy,false,2(0)=0. || 0−1. || f(0)=−1.
+Functions,"If f(x) = 4 − x, find f(3).",1,Easy,false,Substitute 3. || 4−3. || 1.
+Functions,"If f(x) = x/3, evaluate f(9).",3,Easy,false,Divide 9 by 3. || f(9)=3. || Simple fraction.
+Functions,"If f(x) = x² − 4, find f(2).",0,Easy,false,2²=4. || 4−4=0. || f(2)=0.
+Functions,"If f(x)=5x, find f(−4).",−20,Easy,false,Multiply 5×−4. || f(−4)=−20. || Straightforward.
+Functions,"If f(x) = x² + 1, find f(1).",2,Easy,false,1²=1. || 1+1=2. || f(1)=2.
+Functions,"If f(x)=3x−7, find f(4).",5,Easy,false,Compute 3×4. || Subtract 7. || f(4)=5.
+Functions,"If f(x)=2−x², find f(3).",−7,Easy,false,Square 3. || 2−9. || −7.
+Functions,"If f(x) = x² − 3x, find f(5).",10,Medium,false,5²=25. || 3×5=15. || 25−15=10.
+Functions,"If f(x) = 2x(x − 4), find f(6).",24,Medium,false,Compute 6−4=2. || 2x(2)=12×2. || f(6)=24.
+Functions,"If f(x)=x³, find f(−3).",−27,Medium,false,Cube −3. || Negative stays negative. || f(−3)=−27.
+Functions,"If f(x)=x²−9, find x when f(x)=0.",3 or −3,Medium,false,Solve x²−9=0. || x²=9. || √9=±3.
+Functions,"If f(x)=3x+8, find x when f(x)=20.",4,Medium,false,3x+8=20. || Subtract 8. || Divide by 3.
+Functions,Compute f(4)−f(1) if f(x)=x²+1.,15,Medium,false,f(4)=17. || f(1)=2. || 17−2=15 (Correction: actually 17−2=15).
+Functions,"If f(x)=2x−5, how much does output change when x increases from 2 to 7?",10,Medium,false,Find f(7). || Find f(2). || Subtract outputs.
+Functions,"If f(x)=x(x−1), find f(8).",56,Medium,false,8×7. || f(8)=56. || Simple multiplication.
+Functions,Solve for x: f(x)=x²+3x−4=0.,1 or −4,Medium,false,Factor. || (x+4)(x−1)=0. || Solve each.
+Functions,"If f(x)=x²−4x+4, find f(10).",64,Medium,false,Substitute 10. || Compute 100−40+4. || f(10)=64.
+Functions,"If f(x)=5−x, find f(−2).",7,Medium,false,5−(−2). || 5+2. || f(−2)=7.
+Functions,"If f(x)=x³−2x, find f(2).",4,Medium,false,2³=8. || 2×2=4. || 8−4=4.
+Functions,"If f(x)=x²−2x+1, find x when f(x)=0.",1,Medium,false,Factor: (x−1)². || Set =0. || x=1.
+Functions,"If f(x)=3x², compute f(−2).",12,Medium,false,(−2)²=4. || Multiply by 3. || f(−2)=12.
+Functions,"If f(x)=2x+1, find input that gives f(x)=9.",4,Medium,false,2x+1=9. || Subtract 1. || Divide by 2.
+Functions,"If f(x)=x²(x−3), find f(3).",0,Hard,false,Plug in 3. || 3−3=0. || Anything×0=0.
+Functions,"If f(x)=x³−4x²+4x, find f(4).",16,Hard,false,Compute powers. || Multiply coefficients. || Combine carefully.
+Functions,"If f(x)=x⁴−1, compute f(3).",80,Hard,false,3⁴=81. || 81−1. || f(3)=80.
+Functions,"If f(x)=2(x−5)(x+1), evaluate f(5).",0,Hard,false,5−5=0. || Product with 0. || f(5)=0.
+Functions,Find x if f(x)=x²−6x+8=0.,2 or 4,Hard,false,Factor. || (x−2)(x−4). || Solve each.
+Functions,"If f(x)=x³−1, find x when f(x)=26.",3,Hard,false,Solve x³=27. || Cube root. || x=3.
+Functions,Compute f(1)−f(−1) for f(x)=x³.,2,Hard,false,f(1)=1. || f(−1)=−1. || 1−(−1)=2.
+Functions,"If f(x)=6x−2, find x such that f(x)=40.",7,Hard,false,6x−2=40. || Add 2. || Divide by 6.
+Functions,"If f(x)=x(x−4)(x+1), find f(4).",0,Hard,false,Substitute 4. || First factor becomes 4. || Second becomes 0.
+Functions,Evaluate f(−3) if f(x)=x³−9x.,0,Hard,false,Cube −3 = −27. || Compute −9(−3)=27. || −27+27=0.
+Functions,"If f(x)=x²−10x+25, find f(7).",4,Hard,false,7²=49. || 10×7=70. || 49−70+25=4.
+Functions,Solve for x: f(x)=3x²−12x=0.,0 or 4,Hard,false,"Factor out 3x. || 3x(x−4). || Solve 3x=0, x−4=0."
+Functions,"If f(x)=2x³, compute f(−2).",−16,Hard,false,(−2)³=−8. || 2×−8. || f(−2)=−16.
+Functions,"If f(x)=x²(x−1), find f(0).",0,Hard,false,Zero squared. || Zero times anything. || f(0)=0.
+Functions,"If f(x)=x⁴−16, find f(2).",0,Hard,false,2⁴=16. || Subtract 16. || f(2)=0.
+Functions,"If f(x)=x²−3x+2, find x when f(x)=0.",1 or 2,Hard,false,Factor. || (x−1)(x−2). || Solve.
+Functions,"If f(x)=4x³−x, compute f(2).",30,Hard,false,4×8=32. || Subtract 2. || f(2)=30.
+Functions,"If f(x)=x⁵, find f(−1).",−1,Hard,false,Any odd power keeps sign. || (−1)⁵ = −1. || f(−1)=−1.
+Functions,Solve f(x)=x²−49=0.,7 or −7,Hard,false,x²=49. || Square root. || ±7.
+Functions,"If f(x)=2x³−8, find f(3).",46,Hard,false,3³ = 27. || 2×27=54. || 54−8=46.
+Functions,"If f(x)=x(x−2)(x+2), find f(2).",0,Hard,false,Second factor becomes 0. || Product=0. || f(2)=0.
+Functions,"If f(x)=x⁴−5x², compute f(3).",36,Hard,false,3⁴=81. || 5×9=45. || 81−45=36 (correction: Actually 81−45=36).
+Functions,Solve: f(x)=x³−27=0.,3,Hard,false,x³=27. || Cube root. || x=3.
+Functions,"If f(x)=x²−x, compute f(10).",90,Hard,false,10²=100. || Subtract 10. || 100−10=90.
+Functions,"If f(x)=x²(x−4), evaluate f(6).",72,Hard,false,6²=36. || 6−4=2. || 36×2=72.

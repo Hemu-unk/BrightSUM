@@ -1,0 +1,1305 @@
+1
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 3x + 4x
+ Answer: 7x
+ Hint 1: Combine like terms.
+ Hint 2: Both terms contain x.
+ Hint 3: Add the coefficients: 3 + 4.
+
+2
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 6a + 2a + 3
+ Answer: 8a + 3
+ Hint 1: Look for like terms.
+ Hint 2: Combine 6a and 2a first.
+ Hint 3: 6a + 2a = 8a, then bring down the +3.
+
+3
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 7y - 2y
+ Answer: 5y
+ Hint 1: These are like terms.
+ Hint 2: Subtract the coefficients.
+ Hint 3: 7 − 2 = 5.
+
+4
+Topic: Expressions
+ Difficulty: Easy
+ Question: Evaluate: 2x + 5 when x = 3
+ Answer: 11
+ Hint 1: Substitute x with 3.
+ Hint 2: Calculate 2(3) first.
+ Hint 3: 2·3 = 6, then 6 + 5 = 11.
+
+5
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 6 + 2x - 3
+ Answer: 2x + 3
+ Hint 1: Combine constants.
+ Hint 2: 6 − 3 is something simple.
+ Hint 3: 6 − 3 = 3, so expression is 2x + 3.
+
+6
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 4b + 0
+ Answer: 4b
+ Hint 1: Adding zero does nothing.
+ Hint 2: Identify the variable term.
+ Hint 3: Zero is the additive identity.
+
+7
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 3(2x + 4)
+ Answer: 6x + 12
+ Hint 1: Use the distributive property.
+ Hint 2: Multiply 3 by each term.
+ Hint 3: 3·2x = 6x, 3·4 = 12.
+
+8
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 5(y + 3) + 2y
+ Answer: 7y + 15
+ Hint 1: Expand first.
+ Hint 2: Combine like terms after expanding.
+ Hint 3: 5y + 2y = 7y; 5·3 = 15.
+
+9
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 2a + 3(a + 2)
+ Answer: 5a + 6
+ Hint 1: Distribute 3 inside parentheses.
+ Hint 2: Combine like terms.
+ Hint 3: 2a + 3a = 5a; 3·2 = 6.
+
+10
+Topic: Expressions
+ Difficulty: Medium
+ Question: Evaluate: 4x + 3 when x = 5
+ Answer: 23
+ Hint 1: Substitute 5 for x.
+ Hint 2: Multiply before adding.
+ Hint 3: 4·5 = 20; 20 + 3 = 23.
+
+11
+Topic: Expressions
+ Difficulty: Medium
+ Question: Evaluate: 2(3y + 5) - y when y = 2
+ Answer: 20
+ Hint 1: Substitute y = 2.
+ Hint 2: Calculate inside parentheses first.
+ Hint 3: 3(2)+5=11; 2(11)=22; 22−2=20.
+
+12
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 3(m + 2) + 4(m - 1)
+ Answer: 7m + 2
+ Hint 1: Expand both parentheses.
+ Hint 2: Combine m terms.
+ Hint 3: 3m+4m = 7m; 6 − 4 = 2.
+
+13
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 2(2x + 5) + 3(x - 1)
+ Answer: 7x + 7
+ Hint 1: Distribute each multiplier.
+ Hint 2: Combine the x terms.
+ Hint 3: 4x + 3x = 7x; 10 − 3 = 7.
+
+14
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 2(3x + 4) - 5x
+ Answer: x + 8
+ Hint 1: Expand first.
+ Hint 2: Combine like terms carefully.
+ Hint 3: 6x − 5x = x; remaining constant is +8.
+
+15
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 3(a + 2b) + 2(2a - b)
+ Answer: 7a + 4b
+ Hint 1: Expand each group.
+ Hint 2: Group a terms and b terms.
+ Hint 3: 3a+4a = 7a; 6b−2b = 4b.
+
+16
+Topic: Expressions
+ Difficulty: Hard
+ Question: Evaluate: 3x + 2y - 5 when x = 2, y = 3
+ Answer: 7
+ Hint 1: Substitute x and y.
+ Hint 2: Calculate each term separately.
+ Hint 3: 3(2)=6, 2(3)=6 → 6+6−5=7.
+
+17
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 4(2m - 3) + 3(m + 5)
+ Answer: 11m + 3
+ Hint 1: Expand first.
+ Hint 2: Combine m terms.
+ Hint 3: 8m + 3m = 11m; −12 + 15 = 3.
+
+18
+Topic: Expressions
+ Difficulty: Hard
+ Question: Evaluate: 2(a + b) - 3c when a=2, b=4, c=3
+ Answer: 3
+ Hint 1: Substitute all variables.
+ Hint 2: Compute 2(a+b) first.
+ Hint 3: 2(6)=12; 12−9=3.
+
+19
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 5(2x - 3) - 2(3x - 4)
+ Answer: 4x - 7
+ Hint 1: Expand both groups.
+ Hint 2: Combine x terms.
+ Hint 3: 10x−6x = 4x; −15+8 = −7.
+
+20
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: (x + 2) + (3x - 5) + 4
+ Answer: 4x + 1
+ Hint 1: Combine like terms.
+ Hint 2: Group x terms first.
+ Hint 3: 1x+3x=4x; 2−5+4 = 1.
+21
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: x + 2x + 5
+ Answer: 3x + 5
+ Hint 1: Combine like terms.
+ Hint 2: x + 2x = 3x.
+ Hint 3: Bring down the +5.
+
+22
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 10 - 3x + x
+ Answer: 10 - 2x
+ Hint 1: Group x terms.
+ Hint 2: -3x + x = -2x.
+ Hint 3: Keep the constant 10.
+
+23
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 8a - 5 + 2a
+ Answer: 10a - 5
+ Hint 1: Combine a-terms.
+ Hint 2: 8a + 2a = 10a.
+ Hint 3: Constant stays -5.
+
+24
+Topic: Expressions
+ Difficulty: Easy
+ Question: Evaluate: 4x - 7 when x = 6
+ Answer: 17
+ Hint 1: Substitute x = 6.
+ Hint 2: Compute 4·6.
+ Hint 3: 24 – 7 = 17.
+
+25
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 12 + 3x + 8
+ Answer: 3x + 20
+ Hint 1: Combine constants.
+ Hint 2: 12 + 8 = 20.
+ Hint 3: Bring down 3x.
+
+26
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 9y - 4y + 7
+ Answer: 5y + 7
+ Hint 1: Combine like terms.
+ Hint 2: 9y - 4y = 5y.
+ Hint 3: Add the constant 7.
+
+27
+Topic: Expressions
+ Difficulty: Easy
+ Question: Evaluate: 3a + 2 when a = 10
+ Answer: 32
+ Hint 1: Replace a with 10.
+ Hint 2: 3(10) = 30.
+ Hint 3: Add the 2.
+
+28
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 4(x + 1)
+ Answer: 4x + 4
+ Hint 1: Distribute 4.
+ Hint 2: Multiply 4·x and 4·1.
+ Hint 3: 4x + 4.
+
+29
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: 2(5 + y)
+ Answer: 10 + 2y
+ Hint 1: Use distributive property.
+ Hint 2: Multiply 2·5 and 2·y.
+ Hint 3: 10 + 2y.
+
+30
+Topic: Expressions
+ Difficulty: Easy
+ Question: Simplify: (x + 3) + (x - 1)
+ Answer: 2x + 2
+ Hint 1: Combine x-terms.
+ Hint 2: x + x = 2x.
+ Hint 3: 3 − 1 = 2.
+
+31
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 5(x - 2) + 3x
+ Answer: 8x - 10
+ Hint 1: Expand 5(x - 2).
+ Hint 2: 5x + 3x = 8x.
+ Hint 3: -10 remains.
+
+32
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 4(y + 3) - 2y
+ Answer: 2y + 12
+ Hint 1: Expand 4(y + 3).
+ Hint 2: Combine y-terms.
+ Hint 3: 4y - 2y = 2y.
+
+33
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 7(2a - 1) + a
+ Answer: 15a - 7
+ Hint 1: Expand the 7.
+ Hint 2: 14a + a = 15a.
+ Hint 3: Bring down the -7.
+
+34
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 3x + 2(4x - 6)
+ Answer: 11x - 12
+ Hint 1: Expand 2(4x - 6).
+ Hint 2: Combine x-terms.
+ Hint 3: 3x + 8x = 11x.
+
+35
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: (2m + 3) + (5m - 8)
+ Answer: 7m - 5
+ Hint 1: Group m-terms.
+ Hint 2: 2m + 5m = 7m.
+ Hint 3: 3 − 8 = -5.
+
+36
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 6(2x + 1) - 3x
+ Answer: 9x + 6
+ Hint 1: Expand 6(2x + 1).
+ Hint 2: Combine like terms.
+ Hint 3: 12x - 3x = 9x.
+
+37
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 2(3a - 5) + 4(a + 1)
+ Answer: 10a - 6
+ Hint 1: Expand each group.
+ Hint 2: Combine 6a + 4a.
+ Hint 3: -10 + 4 = -6.
+
+38
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 3(x + 4) + 2(x - 6)
+ Answer: 5x + 0
+ Hint 1: Expand first.
+ Hint 2: 3x + 2x = 5x.
+ Hint 3: 12 − 12 = 0.
+
+39
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 8(n - 1) - 3(n + 5)
+ Answer: 5n - 23
+ Hint 1: Expand both parentheses.
+ Hint 2: Combine n terms.
+ Hint 3: -8 - 15 = -23.
+
+40
+Topic: Expressions
+ Difficulty: Medium
+ Question: Simplify: 4(3x - 1) + 5
+ Answer: 12x + 1
+ Hint 1: Expand 4(3x - 1).
+ Hint 2: -4 + 5 = 1.
+ Hint 3: Combine with 12x.
+
+41
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 2(5x - 3) - 3(2x - 4)
+ Answer: 4x + 6
+ Hint 1: Expand each side.
+ Hint 2: Combine x-terms.
+ Hint 3: Carefully handle negatives.
+
+42
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 7(2m + 3) - 4(m - 5)
+ Answer: 10m + 41
+ Hint 1: Expand both parts.
+ Hint 2: Combine 14m - 4m.
+ Hint 3: 21 + 20 = 41.
+
+43
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 6(3a - 2) + 5(1 - a)
+ Answer: 13a - 7
+ Hint 1: Expand carefully.
+ Hint 2: Identify a-terms.
+ Hint 3: Combine constants.
+
+44
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 4(x - 5) + 6(2x + 1)
+ Answer: 16x - 14
+ Hint 1: Expand first.
+ Hint 2: 4x + 12x = 16x.
+ Hint 3: -20 + 6 = -14.
+
+45
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 3(4y + 2) - 5(2y - 3)
+ Answer: 2y + 21
+ Hint 1: Expand both products.
+ Hint 2: Combine y-terms.
+ Hint 3: Carefully distribute the -5.
+
+46
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 9(x - 2) + 3(4 - x)
+ Answer: 6x - 6
+ Hint 1: Expand.
+ Hint 2: Notice the negative x from the second expansion.
+ Hint 3: Combine x-terms and constants.
+
+47
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 5(3p - 4) - 2(7p - 1)
+ Answer: p - 18
+ Hint 1: Expand both parentheses.
+ Hint 2: Combine p-terms.
+ Hint 3: Combine constants.
+
+48
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: (4x - 3) + 2(3x + 5) - (x - 2)
+ Answer: 9x + 9
+ Hint 1: Expand 2(3x + 5).
+ Hint 2: Distribute negative on (x - 2).
+ Hint 3: Combine like terms.
+
+49
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 2(6 - x) + 3(x - 4)
+ Answer: x - 6
+ Hint 1: Expand carefully.
+ Hint 2: Combine x-terms.
+ Hint 3: Combine constants.
+
+50
+Topic: Expressions
+ Difficulty: Hard
+ Question: Simplify: 7(2x + 1) - 5(x + 6) + 3
+ Answer: 9x - 20
+ Hint 1: Expand both groups.
+ Hint 2: Combine x terms: 14x - 5x = 9x.
+ Hint 3: Combine constants: 7 - 30 + 3.
+
+
+1
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: x + 3 > 7
+ Answer: x > 4
+ Hint 1: Subtract 3 from both sides.
+ Hint 2: Keep the inequality direction the same.
+ Hint 3: 7 − 3 = 4.
+
+2
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: x − 5 ≥ 2
+ Answer: x ≥ 7
+ Hint 1: Add 5 to both sides.
+ Hint 2: Do not flip inequality.
+ Hint 3: 2 + 5 = 7.
+
+3
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 3x > 9
+ Answer: x > 3
+ Hint 1: Divide both sides by 3.
+ Hint 2: The sign stays the same.
+ Hint 3: 9 ÷ 3 = 3.
+
+4
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: x/4 ≤ 6
+ Answer: x ≤ 24
+ Hint 1: Multiply both sides by 4.
+ Hint 2: Inequality direction stays.
+ Hint 3: 6 × 4 = 24.
+
+5
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 2x + 1 ≤ 7
+ Answer: x ≤ 3
+ Hint 1: Subtract 1 from both sides.
+ Hint 2: 2x ≤ 6.
+ Hint 3: Divide by 2.
+
+6
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 7 − x ≥ 2
+ Answer: x ≤ 5
+ Hint 1: Subtract 7 from both sides.
+ Hint 2: The −x becomes negative.
+ Hint 3: Multiply by −1 and flip sign.
+
+7
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 4 + x < 10
+ Answer: x < 6
+ Hint 1: Subtract 4.
+ Hint 2: The inequality stays.
+ Hint 3: 10 − 4 = 6.
+
+8
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: −3x ≥ −12
+ Answer: x ≤ 4
+ Hint 1: Divide by −3.
+ Hint 2: Flip the inequality.
+ Hint 3: −12 ÷ −3 = 4.
+
+9
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 5 − 2x > 1
+ Answer: x < 2
+ Hint 1: Subtract 5.
+ Hint 2: Divide the −2.
+ Hint 3: Flip the inequality after dividing by −2.
+
+10
+Topic: Inequalities
+ Difficulty: Easy
+ Question: Solve: 8x + 4 ≥ 20
+ Answer: x ≥ 2
+ Hint 1: Subtract 4.
+ Hint 2: 8x ≥ 16.
+ Hint 3: Divide by 8.
+
+11
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 3(x − 1) ≥ 9
+ Answer: x ≥ 4
+ Hint 1: Divide by 3.
+ Hint 2: x − 1 ≥ 3.
+ Hint 3: Add 1.
+
+12
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 2(x + 4) < 18
+ Answer: x < 5
+ Hint 1: Divide by 2.
+ Hint 2: x + 4 < 9.
+ Hint 3: Subtract 4.
+
+13
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 4 − 3(x + 1) ≤ 1
+ Answer: x ≥ 0
+ Hint 1: Distribute the -3.
+ Hint 2: Combine like terms.
+ Hint 3: Solve for x.
+
+14
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 5x − 7 < 3x + 1
+ Answer: x < 4
+ Hint 1: Move x terms to one side.
+ Hint 2: Move constants to the other.
+ Hint 3: Solve 2x < 8.
+
+15
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 2x + 5 ≥ 3x − 2
+ Answer: x ≤ 7
+ Hint 1: Subtract 2x.
+ Hint 2: Add 2.
+ Hint 3: Compare constants.
+
+16
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: −4(2x − 3) < 8
+ Answer: x > 1
+ Hint 1: Divide by −4 and flip sign.
+ Hint 2: Expand if needed.
+ Hint 3: Solve simply.
+
+17
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 7x + 2 ≤ 3(2x + 4)
+ Answer: x ≤ 10
+ Hint 1: Expand right side.
+ Hint 2: Move x-terms together.
+ Hint 3: Solve.
+
+18
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 6(x − 2) > 2(3x − 1)
+ Answer: x < 2.5
+ Hint 1: Expand both sides.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+19
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 9 − x ≤ 4(x + 1)
+ Answer: x ≥ 1
+ Hint 1: Expand 4(x+1).
+ Hint 2: Bring x-terms together.
+ Hint 3: Solve.
+
+20
+Topic: Inequalities
+ Difficulty: Medium
+ Question: Solve: 5 − 2(3x − 4) ≥ 3x
+ Answer: x ≤ 3
+ Hint 1: Distribute the −2.
+ Hint 2: Collect terms.
+ Hint 3: Solve.
+
+21
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 3(2x + 5) − 4(x − 1) < 30
+ Answer: x < 7
+ Hint 1: Expand both sides.
+ Hint 2: Combine like terms.
+ Hint 3: Solve for x.
+
+22
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 2(x − 3) + 5x ≥ 4(x + 2)
+ Answer: x ≥ 2
+ Hint 1: Expand both sides.
+ Hint 2: Combine x terms.
+ Hint 3: Solve.
+
+23
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 7 − 2(x + 4) ≤ 3(1 − x)
+ Answer: x ≥ −1
+ Hint 1: Expand both sides.
+ Hint 2: Gather terms.
+ Hint 3: Isolate x.
+
+24
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 5x − 3(2 − x) > 4x + 7
+ Answer: x > 13
+ Hint 1: Expand -3(2-x).
+ Hint 2: Combine x terms.
+ Hint 3: Solve for x.
+
+25
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 4(x + 2) − 6(x − 3) ≤ 2x + 18
+ Answer: x ≥ 0
+ Hint 1: Expand.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+26
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 8 − 3(2x − 5) ≥ 4(1 − x)
+ Answer: x ≤ 3
+ Hint 1: Expand both sides.
+ Hint 2: Combine terms.
+ Hint 3: Solve.
+
+27
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 9x + 1 ≤ 3(4x + 2)
+ Answer: x ≤ 1
+ Hint 1: Expand right side.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+28
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 2(x − 4) − 3(x + 5) < 7 − x
+ Answer: x > −4
+ Hint 1: Expand both products.
+ Hint 2: Combine x terms.
+ Hint 3: Solve.
+
+29
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: −5(2x − 3) ≤ 15x + 10
+ Answer: x ≥ −1
+ Hint 1: Expand -5(2x − 3).
+ Hint 2: Move x terms together.
+ Hint 3: Solve.
+
+30
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 4x − 7 < 3(x + 2) − 4
+ Answer: x < 9
+ Hint 1: Expand 3(x+2).
+ Hint 2: Bring x terms to one side.
+ Hint 3: Solve.
+
+31
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 2(3x + 1) − 5 ≤ 4(x − 2)
+ Answer: x ≥ 2
+ Hint 1: Expand both sides.
+ Hint 2: Combine terms.
+ Hint 3: Solve.
+
+32
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 7x − 4 ≥ 2(3x + 5)
+ Answer: x ≥ 14
+ Hint 1: Expand 2(3x+5).
+ Hint 2: Combine x terms.
+ Hint 3: Solve.
+
+33
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 6x + 12 ≤ 3(2x + 7)
+ Answer: x ≤ 3
+ Hint 1: Expand.
+ Hint 2: Combine terms.
+ Hint 3: Solve.
+
+34
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 5(2 − x) + 8 < 12 − 3x
+ Answer: x > −3
+ Hint 1: Expand 5(2−x).
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+35
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 3x − 1 ≥ 2x + 9
+ Answer: x ≥ 10
+ Hint 1: Move x terms.
+ Hint 2: Add 1.
+ Hint 3: Solve.
+
+36
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 8 − x < 3(1 − 2x)
+ Answer: x < −1
+ Hint 1: Expand.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+37
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 6(x − 1) − 2 ≥ 4x + 10
+ Answer: x ≥ 3
+ Hint 1: Expand.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+38
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 3(x + 4) − 2(2x − 1) ≤ 7
+ Answer: x ≤ 3
+ Hint 1: Expand carefully.
+ Hint 2: Combine x terms.
+ Hint 3: Simplify.
+
+39
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 4(2x − 3) − 5 ≥ 2(3x + 1)
+ Answer: x ≥ 5
+ Hint 1: Expand LHS.
+ Hint 2: Expand RHS.
+ Hint 3: Solve for x.
+
+40
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 7(x − 2) + 3 < 4x + 20
+ Answer: x < 9
+ Hint 1: Expand.
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+41
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 2x + 4 ≥ 3(x − 5)
+ Answer: x ≤ 19
+ Hint 1: Expand 3(x−5).
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+42
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: −3(4x − 1) ≤ 5x + 2
+ Answer: x ≥ −1
+ Hint 1: Expand LHS.
+ Hint 2: Move terms.
+ Hint 3: Solve.
+
+43
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 4(x + 3) − 2(3x − 4) ≥ 6
+ Answer: x ≥ −1
+ Hint 1: Expand.
+ Hint 2: Combine x terms.
+ Hint 3: Solve.
+
+44
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 5 − 4x < 3(2 − x)
+ Answer: x < 1
+ Hint 1: Expand RHS.
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+45
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 8x − 6 ≥ 2(4x − 5)
+ Answer: x ≥ −2
+ Hint 1: Expand RHS.
+ Hint 2: Combine like terms.
+ Hint 3: Solve.
+
+46
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 3(2 − x) + 7 < 4(x − 1)
+ Answer: x > 2
+ Hint 1: Expand both sides.
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+47
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: −2(x + 4) ≥ 6x − 10
+ Answer: x ≤ 1
+ Hint 1: Expand -2(x+4).
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+48
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 7 − 3x > 2(1 − x)
+ Answer: x < 5
+ Hint 1: Expand RHS.
+ Hint 2: Move x terms.
+ Hint 3: Solve.
+
+49
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 5(x − 3) − 2(x − 4) ≥ 3
+ Answer: x ≥ 1
+ Hint 1: Expand both.
+ Hint 2: Combine x terms.
+ Hint 3: Solve.
+
+50
+Topic: Inequalities
+ Difficulty: Hard
+ Question: Solve: 6x + 9 < 3(2x + 5)
+ Answer: x < 2
+ Hint 1: Expand RHS.
+ Hint 2: Combine.
+ Hint 3: Solve.
+
+
+
+
+1
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = 3x + 2, find f(5).
+Answer: 17
+Hint 1: Multiply 3×5.
+Hint 2: Add 2.
+Hint 3: f(5)=17.
+2
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = x², find f(6).
+Answer: 36
+Hint 1: Square 6.
+Hint 2: f(6)=36.
+Hint 3: Straight substitution.
+3
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = 2x − 1, find f(0).
+Answer: −1
+Hint 1: 2(0)=0.
+Hint 2: 0−1.
+Hint 3: f(0)=−1.
+4
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = 4 − x, find f(3).
+Answer: 1
+Hint 1: Substitute 3.
+Hint 2: 4−3.
+Hint 3: 1.
+5
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = x/3, evaluate f(9).
+Answer: 3
+Hint 1: Divide 9 by 3.
+Hint 2: f(9)=3.
+Hint 3: Simple fraction.
+6
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = x² − 4, find f(2).
+Answer: 0
+Hint 1: 2²=4.
+Hint 2: 4−4=0.
+Hint 3: f(2)=0.
+7
+Topic: Functions
+Difficulty: Easy
+Question: If f(x)=5x, find f(−4).
+Answer: −20
+Hint 1: Multiply 5×−4.
+Hint 2: f(−4)=−20.
+Hint 3: Straightforward.
+8
+Topic: Functions
+Difficulty: Easy
+Question: If f(x) = x² + 1, find f(1).
+Answer: 2
+Hint 1: 1²=1.
+Hint 2: 1+1=2.
+Hint 3: f(1)=2.
+9
+Topic: Functions
+Difficulty: Easy
+Question: If f(x)=3x−7, find f(4).
+Answer: 5
+Hint 1: Compute 3×4.
+Hint 2: Subtract 7.
+Hint 3: f(4)=5.
+10
+Topic: Functions
+Difficulty: Easy
+Question: If f(x)=2−x², find f(3).
+Answer: −7
+Hint 1: Square 3.
+Hint 2: 2−9.
+Hint 3: −7.
+11
+Topic: Functions
+Difficulty: Medium
+Question: If f(x) = x² − 3x, find f(5).
+Answer: 10
+Hint 1: 5²=25.
+Hint 2: 3×5=15.
+Hint 3: 25−15=10.
+12
+Topic: Functions
+Difficulty: Medium
+Question: If f(x) = 2x(x − 4), find f(6).
+Answer: 24
+Hint 1: Compute 6−4=2.
+Hint 2: 2x(2)=12×2.
+Hint 3: f(6)=24.
+13
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x³, find f(−3).
+Answer: −27
+Hint 1: Cube −3.
+Hint 2: Negative stays negative.
+Hint 3: f(−3)=−27.
+14
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x²−9, find x when f(x)=0.
+Answer: 3 or −3
+Hint 1: Solve x²−9=0.
+Hint 2: x²=9.
+Hint 3: √9=±3.
+15
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=3x+8, find x when f(x)=20.
+Answer: 4
+Hint 1: 3x+8=20.
+Hint 2: Subtract 8.
+Hint 3: Divide by 3.
+16
+Topic: Functions
+ Difficulty: Medium
+ Question: Compute f(4)−f(1) if f(x)=x²+1.
+ Answer: 14
+ Hint 1: f(4)=17.
+ Hint 2: f(1)=2.
+ Hint 3: 17−2=15 (Correction: actually 17−2=15).
+Correct Answer: 15
+17
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=2x−5, how much does output change when x increases from 2 to 7?
+Answer: 10
+Hint 1: Find f(7).
+Hint 2: Find f(2).
+Hint 3: Subtract outputs.
+18
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x(x−1), find f(8).
+Answer: 56
+Hint 1: 8×7.
+Hint 2: f(8)=56.
+Hint 3: Simple multiplication.
+19
+Topic: Functions
+Difficulty: Medium
+Question: Solve for x: f(x)=x²+3x−4=0.
+Answer: 1 or −4
+Hint 1: Factor.
+Hint 2: (x+4)(x−1)=0.
+Hint 3: Solve each.
+20
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x²−4x+4, find f(10).
+Answer: 64
+Hint 1: Substitute 10.
+Hint 2: Compute 100−40+4.
+Hint 3: f(10)=64.
+21
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=5−x, find f(−2).
+Answer: 7
+Hint 1: 5−(−2).
+Hint 2: 5+2.
+Hint 3: f(−2)=7.
+22
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x³−2x, find f(2).
+Answer: 4
+Hint 1: 2³=8.
+Hint 2: 2×2=4.
+Hint 3: 8−4=4.
+23
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=x²−2x+1, find x when f(x)=0.
+Answer: 1
+Hint 1: Factor: (x−1)².
+Hint 2: Set =0.
+Hint 3: x=1.
+24
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=3x², compute f(−2).
+Answer: 12
+Hint 1: (−2)²=4.
+Hint 2: Multiply by 3.
+Hint 3: f(−2)=12.
+25
+Topic: Functions
+Difficulty: Medium
+Question: If f(x)=2x+1, find input that gives f(x)=9.
+Answer: 4
+Hint 1: 2x+1=9.
+Hint 2: Subtract 1.
+Hint 3: Divide by 2.
+26
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²(x−3), find f(3).
+Answer: 0
+Hint 1: Plug in 3.
+Hint 2: 3−3=0.
+Hint 3: Anything×0=0.
+27
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x³−4x²+4x, find f(4).
+Answer: 16
+Hint 1: Compute powers.
+Hint 2: Multiply coefficients.
+Hint 3: Combine carefully.
+28
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x⁴−1, compute f(3).
+Answer: 80
+Hint 1: 3⁴=81.
+Hint 2: 81−1.
+Hint 3: f(3)=80.
+29
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=2(x−5)(x+1), evaluate f(5).
+Answer: 0
+Hint 1: 5−5=0.
+Hint 2: Product with 0.
+Hint 3: f(5)=0.
+30
+Topic: Functions
+Difficulty: Hard
+Question: Find x if f(x)=x²−6x+8=0.
+Answer: 2 or 4
+Hint 1: Factor.
+Hint 2: (x−2)(x−4).
+Hint 3: Solve each.
+31
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x³−1, find x when f(x)=26.
+Answer: 3
+Hint 1: Solve x³=27.
+Hint 2: Cube root.
+Hint 3: x=3.
+32
+Topic: Functions
+Difficulty: Hard
+Question: Compute f(1)−f(−1) for f(x)=x³.
+Answer: 2
+Hint 1: f(1)=1.
+Hint 2: f(−1)=−1.
+Hint 3: 1−(−1)=2.
+33
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=6x−2, find x such that f(x)=40.
+Answer: 7
+Hint 1: 6x−2=40.
+Hint 2: Add 2.
+Hint 3: Divide by 6.
+34
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x(x−4)(x+1), find f(4).
+Answer: 0
+Hint 1: Substitute 4.
+Hint 2: First factor becomes 4.
+Hint 3: Second becomes 0.
+35
+Topic: Functions
+Difficulty: Hard
+Question: Evaluate f(−3) if f(x)=x³−9x.
+Answer: 0
+Hint 1: Cube −3 = −27.
+Hint 2: Compute −9(−3)=27.
+Hint 3: −27+27=0.
+36
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²−10x+25, find f(7).
+Answer: 4
+Hint 1: 7²=49.
+Hint 2: 10×7=70.
+Hint 3: 49−70+25=4.
+37
+Topic: Functions
+Difficulty: Hard
+Question: Solve for x: f(x)=3x²−12x=0.
+Answer: 0 or 4
+Hint 1: Factor out 3x.
+Hint 2: 3x(x−4).
+Hint 3: Solve 3x=0, x−4=0.
+38
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=2x³, compute f(−2).
+Answer: −16
+Hint 1: (−2)³=−8.
+Hint 2: 2×−8.
+Hint 3: f(−2)=−16.
+39
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²(x−1), find f(0).
+Answer: 0
+Hint 1: Zero squared.
+Hint 2: Zero times anything.
+Hint 3: f(0)=0.
+40
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x⁴−16, find f(2).
+Answer: 0
+Hint 1: 2⁴=16.
+Hint 2: Subtract 16.
+Hint 3: f(2)=0.
+41
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²−3x+2, find x when f(x)=0.
+Answer: 1 or 2
+Hint 1: Factor.
+Hint 2: (x−1)(x−2).
+Hint 3: Solve.
+42
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=4x³−x, compute f(2).
+Answer: 30
+Hint 1: 4×8=32.
+Hint 2: Subtract 2.
+Hint 3: f(2)=30.
+43
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x⁵, find f(−1).
+Answer: −1
+Hint 1: Any odd power keeps sign.
+Hint 2: (−1)⁵ = −1.
+Hint 3: f(−1)=−1.
+44
+Topic: Functions
+Difficulty: Hard
+Question: Solve f(x)=x²−49=0.
+Answer: 7 or −7
+Hint 1: x²=49.
+Hint 2: Square root.
+Hint 3: ±7.
+45
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=2x³−8, find f(3).
+Answer: 46
+Hint 1: 3³ = 27.
+Hint 2: 2×27=54.
+Hint 3: 54−8=46.
+46
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x(x−2)(x+2), find f(2).
+Answer: 0
+Hint 1: Second factor becomes 0.
+Hint 2: Product=0.
+Hint 3: f(2)=0.
+47
+Topic: Functions
+ Difficulty: Hard
+ Question: If f(x)=x⁴−5x², compute f(3).
+ Answer: 48
+ Hint 1: 3⁴=81.
+ Hint 2: 5×9=45.
+ Hint 3: 81−45=36 (correction: Actually 81−45=36).
+Correct Answer: 36
+48
+Topic: Functions
+Difficulty: Hard
+Question: Solve: f(x)=x³−27=0.
+Answer: 3
+Hint 1: x³=27.
+Hint 2: Cube root.
+Hint 3: x=3.
+49
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²−x, compute f(10).
+Answer: 90
+Hint 1: 10²=100.
+Hint 2: Subtract 10.
+Hint 3: 100−10=90.
+50
+Topic: Functions
+Difficulty: Hard
+Question: If f(x)=x²(x−4), evaluate f(6).
+Answer: 72
+Hint 1: 6²=36.
+Hint 2: 6−4=2.
+Hint 3: 36×2=72.
