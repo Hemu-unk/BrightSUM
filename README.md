@@ -51,11 +51,7 @@ Troubleshooting
 - If dependencies fail to install, ensure Python/Node versions are compatible and your virtual environment is active.
 - Use the provided scripts (setup.cmd, start-dev.cmd) on Windows to simplify environment setup.
 
-Contact / Team
-- See the repository top-level README for team and project contacts.
-
-
-Where to find more information
+Where To Find More Information
 -----------------------------
 
 - Quickstart (Windows): from the repository root run:
